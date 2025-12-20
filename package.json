@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-"playwright": "1.57.0"
+    "playwright": "1.57.0",
     "firebase-admin": "^12.0.0"
   }
 }
